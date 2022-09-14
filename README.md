@@ -80,8 +80,7 @@ public class NewBehaviourScript : MonoBehaviour
 <br>
 
 ## Output:
-![WhatsApp Image 2022-04-28 at 09 57 26](https://user-images.githubusercontent.com/75235747/166118427-d63f3feb-38bc-45b9-9752-95f4401c2ecd.jpeg)
-
+![Screenshot (8)](https://user-images.githubusercontent.com/75235369/190055531-67450dac-d79e-4d8c-8b73-e24e1cbdefd1.png)
 
 ## Result:
 Thus, The 3D application for Roll the Ball objects in unity is developed successfully.
